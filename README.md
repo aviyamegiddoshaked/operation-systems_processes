@@ -71,5 +71,3 @@ int main() {
     return 0;
 }
 ```
-This program demonstrates how to create and use a buffered file with support for the `O_PREAPPEND` flag. It showcases how to open a file, write data to it, and close it using custom buffered file functions, ensuring that new data is prepended to the existing content of the file.
-
